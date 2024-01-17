@@ -187,7 +187,6 @@ public class Student{
                             student = new Student();
                             student.input();
                             list.add(i,student);
-
                             break;
                         }
                     }
