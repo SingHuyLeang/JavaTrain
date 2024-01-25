@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36c151ef-0a35-4ccf-8fd9-87bc17d14fc4" name="Changes" comment="List Exercise path 2">
+    <list default="true" id="36c151ef-0a35-4ccf-8fd9-87bc17d14fc4" name="Changes" comment="Map path 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Demo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo.Main">
+  <component name="RunManager" selected="Application.Student">
     <configuration name="Array.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Main" />
       <module name="JavaTrain" />
@@ -83,9 +83,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Student" />
       <module name="JavaTrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.Demo.Main" />
         <item itemvalue="Application.Array.Main" />
         <item itemvalue="Application.Function" />
         <item itemvalue="Application.condition" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705151747851</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Map path 1">
+      <option name="closed" value="true" />
+      <created>1705467403386</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705467403386</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +194,7 @@
     <MESSAGE value="List" />
     <MESSAGE value="List Exercise path 1" />
     <MESSAGE value="List Exercise path 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="List Exercise path 2" />
+    <MESSAGE value="Map path 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map path 1" />
   </component>
 </project>
